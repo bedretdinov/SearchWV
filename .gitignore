@@ -1,0 +1,4 @@
+.idea/*
+lib.search/models/index.ann
+lib.search/conf.json
+venv/

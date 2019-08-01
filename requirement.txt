@@ -1,0 +1,8 @@
+annoy==1.15.1
+gensim==3.7.1
+nltk==3.4
+numpy==1.16.2
+pandas==0.24.2
+pymorphy2==0.8
+sklearn==0.0
+pymysql
